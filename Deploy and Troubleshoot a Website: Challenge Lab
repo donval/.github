@@ -1,0 +1,7 @@
+
+export ZONE=
+export VM_NAME=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Deploy%20and%20Troubleshoot%20a%20Website%3A%20Challenge%20Lab/techcpsgsp101.sh
+sudo chmod +x techcpsgsp101.sh
+./techcpsgsp101.sh
